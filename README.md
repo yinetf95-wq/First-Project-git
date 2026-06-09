@@ -1,10 +1,10 @@
-(English Version) & (Versão em Português)
+<b>(English Version) & (Versão em Português)</b>
 <br>
 Easy Shopping Via Mobile <br>
 Responsive landing page developed as the first practical challenge of the DevClub course.<br>
 Landing page responsiva desenvolvida como o primeiro desafio prático do curso DevClub.
 <br><br>
-🛠️ Technologies Used / Tecnologias utilizadas
+<b>🛠️ Technologies Used / Tecnologias utilizadas</b>
 <br><br>
 HTML5
 <br>
