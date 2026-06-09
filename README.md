@@ -14,12 +14,12 @@ Google Fonts (Oswald)
 <br>
 Responsive Design (Media Queries) 
 <br><br>
-📱 About the Project / Sobre o projeto
+<b>📱 About the Project / Sobre o projeto</b>
 <br>
 A landing page for a mobile store featuring a two-column layout on desktop that adapts to a single column on mobile devices (breakpoint: 600px).<br>
 Página de apresentação de uma loja mobile com layout de duas colunas no desktop que se adapta para uma única coluna em dispositivos móveis (breakpoint: 600px).
 <br><br>
-✨ Features / Funcionalidades
+<b>✨ Features / Funcionalidades</b>
 <br>
 Flexible layout using Flexbox / Layout flexível com Flexbox<br>
 Responsive typography using the clamp() function / Tipografia responsiva com clamp()<br>
