@@ -5,7 +5,7 @@ Responsive landing page developed as the first practical challenge of the DevClu
 Landing page responsiva desenvolvida como o primeiro desafio prático do curso DevClub.
 <br><br>
 <b>🛠️ Technologies Used / Tecnologias utilizadas</b>
-<br><br>
+<br>
 HTML5
 <br>
 CSS3
